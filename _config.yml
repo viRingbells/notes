@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Sun Haohao's Home
+title: Haohao's Home
 subtitle: Welcome Home
 description: 
 author: Sun Haohao
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -53,7 +53,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: acg
+default_category: reminding
 category_map:
 tag_map:
 
