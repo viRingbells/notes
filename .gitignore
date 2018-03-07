@@ -2,6 +2,7 @@
 themes
 db.json
 public
+.deploy_git
 
 # Logs
 logs

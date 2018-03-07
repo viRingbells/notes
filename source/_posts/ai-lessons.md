@@ -1,10 +1,12 @@
 ---
 title: AI Lessons
 date: 2018-02-27 15:27:54
-tags:
+categories:
+  - tech
   - AI
-  - self-driving
+tags:
   - study
+  - AI
 ---
 
 # Synopsis
@@ -195,3 +197,9 @@ Learn to build and train neural networks, starting with the foundations in linea
 
 大作业，要求用LeNet 完成交通标志识别。作业说明，框架代码和数据集都在github上有
 https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
+
+---
+
+夹带的私货:
+
+我在油管里看到了这个视频：https://www.youtube.com/watch?v=aircAruvnKk。
