@@ -53,9 +53,15 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: reminding
+default_category: me
 category_map:
+  日常: me
+  理论: theory
+  应用: application
 tag_map:
+  工作: employment
+  学习: lesson
+  折腾: research
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
