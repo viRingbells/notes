@@ -1,5 +1,5 @@
 ---
-title: 渣翻译 - Nodejs的事件循环
+title: Nodejs的事件循环
 tags:
   - 学习
   - 翻译
