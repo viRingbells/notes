@@ -3,3 +3,6 @@ scheme: Mist
 language: zh-CN
 sidebar:
   display: hide
+auto_excerpt:
+  enable: true
+  length: 150
