@@ -2,7 +2,7 @@
 title: 阅读
 date: 2018-05-24 20:04:26
 categories:
-  - 理论
+  - 技术
 tags:
   - 学习
 ---

@@ -6,7 +6,7 @@
     "install": "rm -rf themes && mkdir -p themes/next && git clone --branch v5.1.2 https://github.com/iissnan/hexo-theme-next themes/next"
   },
   "hexo": {
-    "version": "3.5.0"
+    "version": "3.7.1"
   },
   "dependencies": {
     "hexo": "^3.7.1",
