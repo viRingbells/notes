@@ -1,9 +1,9 @@
 ---
 title: Nodejs的事件循环
 categories:
-  - 技术
+  - 工程
 tags:
-  - 翻译
+  - 学习
 date: 2018-06-04 16:44:33
 ---
 

@@ -56,15 +56,11 @@ index_generator:
 default_category: me
 category_map:
   日常: me
-  技术: tech
   工程: engine
-  产品: product
 tag_map:
-  原创: original
-  翻译: translate
-  学习: study
-  工具: tool
   周刊: weekly
+  学习: study
+  技巧: skill
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date

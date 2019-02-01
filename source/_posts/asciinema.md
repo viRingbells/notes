@@ -1,9 +1,9 @@
 ---
 title: 轻量级终端录屏软件 asciinema
-tags:
-  - 工具
 categories:
   - 工程
+tags:
+  - 技巧
 date: 2018-10-24 12:58:49
 ---
 
