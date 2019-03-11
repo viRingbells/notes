@@ -93,7 +93,7 @@ pick 5c67e61 Message for commit #3
 
 隐藏不重要的提交信息可以使提交历史更加的容易理解，这也是简单的`git merge`无法做到的。
 
-## Rebase黄金法则
+# Rebase黄金法则
 
 对于`rebase`，最重要的事情是知道什么情况下不要去使用它。黄金法则就是，不要在_公共_的分支上使用`git rebase`功能。
 
