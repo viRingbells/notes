@@ -1,10 +1,10 @@
 ---
-title: 技术周刊-2019-01
+title: 阅读 - 1
 date: 2019-01-31 16:58:04
 categories:
   - 工程
 tags:
-  - 周刊
+  - 阅读
 ---
 
 ## [聊聊AA实验的波动性](https://zhuanlan.zhihu.com/p/47339375)
