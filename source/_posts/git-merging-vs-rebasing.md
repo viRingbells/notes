@@ -187,6 +187,23 @@ git merge-base feature master
 
 在一个分支通过了团队评审后，你就可以使用`git rebase`将它的基准移到主干末端，然后使用`git merge`来把分支合并到主干中。
 
-这本质上与引入分支变更到主干相同，但是主干是不允许重写提交历史的，所以最终只能用`git merge`来将分支代码合并到主干中。然而，只要在分支上执行`rebase`后，能尽快的在主干上执行`merge`，那么产生的提交历史仍然是线性的。
+这本质上与引入分支变更到主干相同，但是主干是不允许重写提交历史的，所以最终只能用`git merge`来将分支代码合并到主干中。然而，只要在分支上执行`rebase`后，能尽快的在主干上执行`merge`，那么产生的提交历史仍然是线性的。这样你也可以把PR期间的提交塞到提交历史中。
 
-（待续……）
+![使用/不使用Rebase将分支合入主干的情况](https://wac-cdn.atlassian.com/dam/jcr:df39b1f1-2686-4ee5-90bf-9836783342ce/10.svg?cdnVersion=ld)
+
+如果对于`git rebase`还不那么熟练，你也可以在一个临时分支里来尝试这个操作。这样，即使你不小心把提交历史弄乱了，你也还是可以恢复到最初的分支状态。比如：
+
+```
+git checkout feature
+git checkout -b temporary-branch
+git rebase -i master
+# [Clean up the history]
+git checkout master
+git merge temporary-branch
+```
+
+# 总结
+
+以上就是`rebase`所需要的基本知识了。如果想要一个干净、线性的、没有合并提交记录的提交历史，那么就应该使用`git rebase`代替`git merge`来处理分支之间代码合并的工作。
+
+另外一方面，如果要保留全部的提交历史，规避重写公共提交历史的风险，那么仍然需要使用`git merge`。两种方法都是有效的，不过现在至少多了一个`git rebase`多选择。
