@@ -8,7 +8,7 @@ date: 2018-06-04 16:44:33
 ---
 
 
-最近想深入了解一下Nodejs的event loop，发现了官网上的[一篇文章][event-loop-timers-and-nexttick]。在Nodejs的[中文官网][nodejs-cn]上也没有收录。考虑日后也要常来翻阅，英语阅读起来确实也不直观，所以尝试翻译一下。（原汁原味是不可能的，肯定会有自己的理解参杂在里面）
+最近想深入了解一下Nodejs的event loop，发现了官网上的[一篇文章][event-loop-timers-and-nexttick]。在Nodejs的[中文官网][nodejs-cn]上也没有收录。考虑日后也要常来翻阅，英语阅读起来确实也不直观，所以尝试翻译一下。（原汁原味是不可能原汁原味的，英语又不是那么好，只能凑活凑活这样子）
 
 > 正文来自Nodejs官网[https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/]
 
