@@ -9,3 +9,7 @@ categories:
 
 网站地址是：https://www-us.computershare.com/employee/us/zh-cn/baidu
 使用私人帐号密码登录。
+
+## PPT颜色选择器
+
+https://colorsupplyyy.com/app/
