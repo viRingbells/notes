@@ -6,3 +6,4 @@ sidebar:
 auto_excerpt:
   enable: true
   length: 150
+use_motion: false

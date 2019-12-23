@@ -13,8 +13,9 @@ timezone: Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.sunhaohao.com
-root: /
-permalink: :category/:title/
+root: /article
+# permalink: :category/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -55,12 +56,18 @@ index_generator:
 # Category & Tag
 default_category: me
 category_map:
-  日常: me
+  日常: common
   工程: engine
+  # Under Engine
+  前端: frontend
+  后端: backend
 tag_map:
-  阅读: read 
-  学习: study
-  技巧: skill
+  纸上谈兵: knowledge
+  墨守陈规: pattern
+  勾心斗角: architecture
+  笔墨纸砚: tool
+  鉴往知来: experience
+  他山之石: learn
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -85,3 +92,4 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:viRingbells/viRingbells.github.io.git
+
