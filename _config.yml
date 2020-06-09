@@ -61,6 +61,7 @@ category_map:
   # Under Engine
   前端: frontend
   后端: backend
+  团队: team
 tag_map:
   纸上谈兵: knowledge
   墨守陈规: pattern
