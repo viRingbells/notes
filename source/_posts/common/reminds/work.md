@@ -15,7 +15,12 @@ Demo
 
 地址是：https://colorsupplyyy.com/app/
 
-# 百度员工股票操作网站
+# 股票/期权操作网站
 
+## 百度股权激励
 网站地址是：https://www-us.computershare.com/employee/us/zh-cn/baidu
 使用私人帐号密码登录。
+
+## 字节期权激励
+网站地址是：https://www.mysmartadvisor.com
+使用私人账号密码登录。
