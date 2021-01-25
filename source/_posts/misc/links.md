@@ -2,7 +2,7 @@
 title: 传送门大厅
 date: 2021-01-24 17:45:37
 categories:
-    - reminds
+    - misc
 ---
 
 这里存放着各种乱七八糟的链接（不是那种链接）
@@ -10,6 +10,7 @@ categories:
 # 互联网技术博客、新闻等
 
 从陈皓大佬的分享里抄来很多，不过一个人精力有限，后面再整理一套快速找出重要新闻的方法吧。
+<!-- more -->
 
 - News:
     - Reddit: https://www.reddit.com/r/programming/
@@ -17,7 +18,6 @@ categories:
 - Papers:
     - Papers We Love at Github: https://github.com/papers-we-love/papers-we-love
     - Two Minute Papers: https://www.youtube.com/user/keeroyz
-<!-- more -->
     - The Morning Paper: https://blog.acolyer.org/
     - Google Research: https://research.google/pubs/
     - Microsoft Research: https://www.microsoft.com/en-us/research/search/
