@@ -2,7 +2,9 @@
 title: 传送门大厅
 date: 2021-01-24 17:45:37
 categories:
-    - misc
+    - reminds
+tags:
+    - other
 ---
 
 这里存放着各种乱七八糟的链接（不是那种链接）
@@ -10,8 +12,8 @@ categories:
 
 # 『字节跳动』股权激励操作地址
 
-地址是: https://www.mysmartadvisor.com
-使用个人手机号、密码登录，需要通过『核聚保安码』App 校验。 
+这里是 >>[传送门](https://www.mysmartadvisor.com)<<
+需要注意的是，此站点需要使用私人账号（手机号）登录，而非公司提供的账号。同时需要使用「核聚保安码」App 的校验。
 
 # About Linux
 
